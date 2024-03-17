@@ -1,0 +1,21 @@
+.navbar {
+    background-color: transparent !important;
+    color: white !important;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 3.5rem;
+    position: relative;
+    top: 2rem;
+    z-index: 1;
+}
+
+.navbar .menu-btn {
+    background-color: transparent !important;
+    color: white !important;
+    padding: 10px !important;
+    font-family: Pacifico cursive !important;
+    font-size: small !important;
+    text-decoration: none !important;
+    position: relative !important;
+}
